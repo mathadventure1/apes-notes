@@ -1,0 +1,12 @@
+### <u>Ecosystems being Affected by Disturbances:</u>
+- Disturbance
+	- An event, caused by physical, chemical, or biological agents, resulting in changes in population size of community composition.
+- Resistance
+	- A measure of how much a disturbance can affect flows of energy and matter in an ecosystem
+- Resilience
+	- The rate at which an ecosystem returns to its original state after a disturbance
+- To know: Watershed Studies
+	- Chesapeake bay
+- Watershed:
+	- A watershed is the area of land that drains into a particular body of water
+- 
