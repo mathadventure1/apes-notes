@@ -36,3 +36,8 @@ Warming doesn't occur equally because:
 	- Prevailing wind patterns around the world are produced by a combination of atmospheric convection currents and the Coriolis effect.
 - Rain shadow
 	- Rain shadows occur where humid winds blowing inland from the ocean meet a mountain range. On the windward side of the mountains, air rises and cools and large amounts of water vapor condense to form clouds and precipitation. On the leeward side of the mountains, cold, dry air descends , warms via adiabatic heating, and causes much drier conditions
+- Surface ocean currents move warm/cold water around the globe
+	- Ocean currents are driven by a combination of temperature, gravity, prevailing winds, the Coriolis effect, and the location of the continents.
+	- Warm water, like warm air expands and rises.
+	- Gyre: 
+		- A large-scale pattern of water circulation that moves clockwise in the Northern Hemisphere and counter clockwise in the Southern Hemisphere

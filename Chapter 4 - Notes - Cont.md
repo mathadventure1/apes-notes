@@ -1,0 +1,78 @@
+## Ocean Currents
+- Upwelling:
+		- The upward movement of ocean water toward the surface as a result of diverging currents.
+		- This upward movement of water brings nutrients from the ocean bottom that support large populations of producers which in turn support large populations of fish.
+- El Nino
+	- Some of the water that flows from the Gulf of Mexico to the North Atlantic freezes or evaporates and the salt that remains behind increases the salt concentration of the water.
+	- This cold salty water is relatively dense, so it sinks to the bottom of the ocean, mixing with deeper ocean waters
+- If the polar caps melt, salt content falls = north Atlantic current isn't heavy enough so it will stop the current
+- Climate change is changing the currents in different ways that we don't fully understand.
+- Terrestrial biomes are defined by the dominant plant growth forms
+	- Terrestrial biome:
+		- A geographic region categorized by a particular combination of average annual temperature, annual precipitation, and distinctive plant growth forms on land
+	- Aquatic Biome:
+		- An aquatic region characterized by a particular combination of salinity, depth, and water flow.
+- Tundra:
+	- A cold and treeless biome with low-growing vegetation
+	- In winter, the soil is completely frozen
+	- The tundra's growing season is very short, usually only about 4 months during summer
+	- The underlying subsoil is known as permafrost
+	- Permafrost:
+		- An impermeable, permanently frozen layer of soil
+- Boreal Forest
+	- A forest biome made up primarily of coniferous evergreen trees that can tolerate cold winters and short growing seasons
+	- Boreal forests are found in Russia, Europe, NA
+	- The subarctic biome has a very cold climate, plat growth is more constrained by temp rather than percip
+	- The soil is nutrient-poor due to slow decomposition
+	- Human impact: Drilling
+- Temperate Rainforest
+	- A coastal biome typified by moderate temperatures and high precipitation
+	- Found along the west coast of NA from northern cali to alaska, southern chili, NZ, and Tasmania
+	- Ocean currents moderate temp
+	- Human Impact: Logging
+- Temperate Seasonal Forest
+	- A biome with warm summers and cold winters with over 1m of percip annually
+	- Found in the Eastern US (NE), Asia, EU
+	- Dominated by broadleaf deciduous trees such as beech maple oak and hickory.
+	- Warmer summers temperatures favour decomposition soils generally contain more nutrients than those of boreal forests
+	- Human Impact: Deforestation/Cutting down
+- Woodland/Shrubland
+	- A biome characterized by hot, dry summers, and mild rainy winters
+	- Found on the coast of souther Cali, Ausi, Africa
+	- There is a 12 month growing season but plant growth is constrained by low percip in summer and by relatively low temp in winter.
+	- Wildfire are common and points of this biome are well adapted to both fire and drought
+- Temperate Grassland/Cold Desert
+	- A biome characterized by cold, harsh winters, and hot, dry summers
+	- Lowest average annual precipitation of any temperate biome.
+	- Found in the Great Plains of NA, SA, and in Asia/EU
+	- Plant growth constrained by less percip and cold temp
+	- Plants include grasses + nonwoody flowering plants well adapter to fires
+- Tropical Rainforest
+	- Very diverse
+	- Lots of species
+- Savanna
+- Desert
+	- High temp, low percip
+	- Plants adapted to the low percip
+- Freshwater Biomes
+	- Stream/Rivers
+		- Flowing fresh water may originate from underground springs or as runoff from rain or melting snow
+	- Lakes/ponds
+		- Oligotrophic
+			- Describes a lake with a low level of productivity
+		- Mesotrophic
+			- Describes a lake with a moderate level of productivity
+		- Eutrophic
+			- Describes a lake with a high level of productivity
+	- Freshwater wetlands
+		- An aquatic biome that is submerged or saturated by water
+	- Marine Biomes
+		- Salt marsh
+			- Very productive
+		- Mangrove swamp
+			- A swamp that occurs along tropical and subtropical coasts
+		- Intertidal Zone 
+			- Narrow band of coastline between the levels of high/low tide
+		- Coral Reef
+			- Most diverse marine biome on Earth
+			- Found in warm shallow waters                      
